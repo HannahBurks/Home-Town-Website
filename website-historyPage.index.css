@@ -1,0 +1,103 @@
+
+*{
+    box-sizing: box-border;
+    margin: 0;
+    padding:0;
+    margin: auto;
+}
+
+
+body {
+    background-color: #caedde  ;
+      align-self: center;
+    margin: auto;
+    }
+
+    
+
+   /* nav bar*/
+.topnav {
+    background-color: #8bd7d1;
+    overflow: hidden;
+    margin: auto;
+    position: center;
+    height: auto;
+    margin: auto;
+    text-align: center;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 40px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    margin: auto;
+    
+  }
+  /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #8bd7d1;
+    color: black;
+}
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #8bd7d1;
+    color: white;
+   
+  }
+  
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .y{
+        text-align: center;
+        margin-top: 4%;
+        padding: 2%;
+        border:#85a6b1;
+        border-width: 10px;
+        border-style:solid;
+        background-color: #85a6b1;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+
+    .video{
+        margin-top:10%
+        background-color=#85a6b1;
+        border:#85a6b1;
+        border-style:solid;
+       padding:3%;
+       margin-left: 22%;
+       align-content:center;
+    }
+
+    .x{
+        text-align: left;
+        margin-right: 78%;
+        padding-right: 2%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left:1%;
+        border:#85a6b1;
+        border-style:solid;
+        margin-top: -43%;
+        background-color: #85a6b1;
+       
+
+    }
+
+    .onlyFools{
+       padding-left: 0.5%;
+        margin-right: 82%;
+        border:#85a6b1;
+        border-style:solid;
+        background-color: #85a6b1;
+        
+    
+    }

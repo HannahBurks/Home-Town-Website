@@ -1,3 +1,6 @@
+
+
+
 *{
     box-sizing: box-border;
     margin: 0;
@@ -79,10 +82,39 @@ margin: auto;
     text-align: center;
  }
 
-
+ 
 h2 {
-    position: absolute;
-    bottom: 10px;
-    left: 100px;
-    top: 300px;
+position:relative;
+  bottom: 10px;
+  left: 100px;
+  top: -500px;
+}
+    
+    
+.comment-block{
+    position: center;
+    height: auto;
+    margin: auto;
+    text-align: center;  
+
+}
+
+.weatherwidget-io{
+    position: relative;
+    top: -530px;
+    right: -10px;
+width: 836px;
+}
+
+.comment-sign{
+    position: center;
+    height: auto;
+    margin: auto;
+    text-align: center;  
+}
+
+#intro-to-history{
+    border-color:#85a6b1 ;
+    border-width: 2%;
+   
 }
